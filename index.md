@@ -22,7 +22,7 @@ While many technologies have emerged to **support youth in exploring computation
 
 
 ## Code
-`code
+`Code
 
 /*************************************************** 
   This is an example for our Adafruit 16-channel PWM & Servo driver
