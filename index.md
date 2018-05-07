@@ -22,7 +22,8 @@ While many technologies have emerged to **support youth in exploring computation
 
 
 ## Code
-```markdown
+`code
+
 /*************************************************** 
   This is an example for our Adafruit 16-channel PWM & Servo driver
   Servo test - this will drive 8 servos, one after the other on the
@@ -133,7 +134,8 @@ void loop() {
   recvOneChar();
   showNewData();
 }
-```
+
+`
 
 
 
