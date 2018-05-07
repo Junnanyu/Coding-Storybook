@@ -136,7 +136,10 @@ void loop() {
   showNewData();
 }
 ```
-
+## Resources
+- TopCode Library: http://users.eecs.northwestern.edu/~mhorn/topcodes/
+- Janson’s walking mechanism
+- Laser Cutting Machine 
 
 
 
