@@ -1,6 +1,6 @@
 # Coding Storybook
 
-![Image](https://github.com/degokay/Coding-Storybook/blob/master/WeChat%20Image_20180507153744.jpg)
+![Image of The Project](https://github.com/degokay/Coding-Storybook/blob/master/WeChat%20Image_20180507153744.jpg)
 
 ## Project Description
 For more than a decade, education researchers, policymakers, and industry leaders have recognized the **importance of helping young people cultivate computational thinking, or the ability to use concepts from computer science to solve problems and understand the world in new ways (Wing, 2006)**. These concepts include how to _think algorithmically_, to _break down complex ideas into smaller parts_, or to _uncover issues or “bugs” in instructions_. 
