@@ -14,7 +14,9 @@ While many technologies have emerged to **support youth in exploring computation
 
 ## Team Members
 [Junnan Yu](https://github.com/Junnanyu)
+
 [Siqi Feng](https://github.com/Siqi77feng)
+
 [Babatunde Adegoke](https://github.com/degokay)
 
 
