@@ -7,11 +7,6 @@ While many technologies have emerged to support youth in exploring computational
 
 Coding Storybook is a concept designed for young children around 5-7 to learn computational thinking through storytelling. The system includes a storybook and some electronics, such as servos, and a set of physical coding blocks. The characters and scene objects in each story can be torn down and assembled into 3D animals with electronics, then children can use a virtual programming interface (mobile or web based programming application) create a block of code to control the motion of the paper robot according to the storyline. Combining coding and storytelling in this concept not only makes traditional storytelling more interactive, but also makes computing more appealing and fun to young children.
 
-## Project Components
-- A Storybook
-- A Physical Structure and
-- Coding Blocks to be used for the sets of Instructions
-
 ## Team Members
 [Junnan Yu](https://github.com/Junnanyu)
 
