@@ -150,7 +150,6 @@ This is a video about the following:
 2. Process of building the model;
 3. Design of the storybook;
 4. Demo of the code, including the webcam function we finally could not utilize.
-=======
 
 ## Resources
 - TopCode Library: http://users.eecs.northwestern.edu/~mhorn/topcodes/
