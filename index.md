@@ -22,7 +22,7 @@ Coding Storybook is a concept designed for young children around 5-7 to learn co
 
 
 ## Code
-Find the project code here
+[Find the project code here](https://github.com/degokay/Coding-Storybook/blob/master/Project%20code)
 
 ## Challenges & Limitation
 The Topcode library could not be used for the project since the library does not have an Arduino equivalent as at the time of this project work and we could not find a better computer vision library that could read code blocks. While trying the project out, we used different resources most of which are not documented because we could not find success with them and eventually, we end up using a command prompt on the Arduino interface. Had it been possible, we would have loved to try out Arduino to Android communication or rather we try using a simple interface iOS app for the communication with the physical structure. 
