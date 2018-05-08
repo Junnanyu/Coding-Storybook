@@ -143,7 +143,7 @@ While this is a course work, it should be noted that it is the project of Junnan
 
 ### Video
 
-https://drive.google.com/file/d/1SnbOF03V54Yr7fD-71VLAi23hSaWVULb/view?usp=sharing
+[Video Documentation](https://drive.google.com/file/d/1SnbOF03V54Yr7fD-71VLAi23hSaWVULb/view?usp=sharing)
 
 This is a video about the following:
 - Demonstration on the final model and demo;
@@ -152,11 +152,11 @@ This is a video about the following:
 - Demo of the code, including the webcam function we finally could not utilize.
 
 ## Resources
-- TopCode Library: http://users.eecs.northwestern.edu/~mhorn/topcodes/
+- [TopCode Library](http://users.eecs.northwestern.edu/~mhorn/topcodes/)
 - Janson’s walking mechanism
 - Laser Cutting Machine 
-- The Story Book [Storybook](https://github.com/degokay/Coding-Storybook/blob/master/Coding%20Storybook%20v2.pdf)
-- The Topcode Webcam Code Used [Webcam Code](https://github.com/degokay/Coding-Storybook/blob/master/Webcam%20Code)
+- [The Story Book](https://github.com/degokay/Coding-Storybook/blob/master/Coding%20Storybook%20v2.pdf)
+- [The Topcode Webcam Code Used](https://github.com/degokay/Coding-Storybook/blob/master/Webcam%20Code)
 
 
 
