@@ -1,3 +1,4 @@
+```java
 //Webcam Code
 
 import webcam.*;
@@ -201,4 +202,4 @@ public class WebCamSample extends JPanel
          });
    }
 }
-
+```
