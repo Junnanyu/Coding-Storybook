@@ -141,7 +141,7 @@ The Topcode library could not be used for the project since the library does not
 
 While this is a course work, it should be noted that it is the project of Junnan and this project might explore the above listed solutions and likely, this page may be updated in the future. 
 
-### Video
+## Video
 
 [Video Documentation](https://drive.google.com/file/d/1SnbOF03V54Yr7fD-71VLAi23hSaWVULb/view?usp=sharing)
 
