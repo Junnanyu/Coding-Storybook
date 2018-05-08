@@ -141,6 +141,17 @@ The Topcode library could not be used for the project since the library does not
 
 While this is a course work, it should be noted that it is the project of Junnan and this project might explore the above listed solutions and likely, this page may be updated in the future. 
 
+### Video
+
+https://drive.google.com/file/d/1SnbOF03V54Yr7fD-71VLAi23hSaWVULb/view?usp=sharing
+
+This is a video about the following:
+1. Demonstration on the final model and demo;
+2. Process of building the model;
+3. Design of the storybook;
+4. Demo of the code, including the webcam function we finally could not utilize.
+=======
+
 ## Resources
 - TopCode Library: http://users.eecs.northwestern.edu/~mhorn/topcodes/
 - Janson’s walking mechanism
